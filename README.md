@@ -1,9 +1,9 @@
 
 <br />
 <p align="center">
-  <h1 align="center">Huffmann File Compressor</h1>
+  <h1 align="center">Huffman File Compressor</h1>
   <p align="center">
-  <i><b>A File Compressor site which uses Huffmann Coding technique to perform lossless compression/decompression of .txt files </b></i>
+  <i><b>A File Compressor site which uses Huffman Coding technique to perform lossless compression/decompression of .txt files </b></i>
   </p>
 </p>
 
